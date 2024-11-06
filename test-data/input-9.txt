@@ -1,0 +1,4 @@
+#csak a primary rakéte van betöltve, SINGLE(primaryt kilövi)SINGLE(primary kilövi)
+GT4500,10,0,0,0
+TORPEDO,SINGLE
+TORPEDO,SINGLE

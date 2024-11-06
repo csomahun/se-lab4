@@ -1,0 +1,3 @@
+#csak second-ben van és csak Single fired
+GT4500,0,0,10,0
+TORPEDO,SINGLE

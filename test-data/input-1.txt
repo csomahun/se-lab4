@@ -1,0 +1,3 @@
+#mindkettő rakéte bevan  töltve ,de errort dob,és csak Single fired
+GT4500,10,1,10,0
+TORPEDO,SINGLE
